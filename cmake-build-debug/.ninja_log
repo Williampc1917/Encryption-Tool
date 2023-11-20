@@ -1,0 +1,5 @@
+# ninja log v5
+1250	1319	1700524235937774631	EncryptionTool	ff53eaac3a2e78dd
+3	17	1700517545032525902	CMakeFiles/EncryptionTool.dir/Decryption.cpp.o	79ce38f963d068
+2	1250	1700524235865773948	CMakeFiles/EncryptionTool.dir/main.cpp.o	38642c492dea5fb8
+2	899	1700524235517770646	CMakeFiles/EncryptionTool.dir/Encryption.cpp.o	1922e12b39bd2eab

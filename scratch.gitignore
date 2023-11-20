@@ -1,0 +1,52 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CLion specific files
+.idea/
+cmake-build-*/
+
+# Build files
+build/
+Debug/
+Release/
+*.log
+*.tlog
+*.lastbuildstate
+
+# Ignore vcpkg if it's not being used
+vcpkg/
+
+# Dependency directories (uncomment if not including these in your repository)
+# boost/
+# crypto++/
+
+# System Files
+.DS_Store
+Thumbs.db

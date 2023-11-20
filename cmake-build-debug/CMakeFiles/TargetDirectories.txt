@@ -1,0 +1,3 @@
+/home/william/CLionProjects/EncryptionTool/cmake-build-debug/CMakeFiles/EncryptionTool.dir
+/home/william/CLionProjects/EncryptionTool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/william/CLionProjects/EncryptionTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
