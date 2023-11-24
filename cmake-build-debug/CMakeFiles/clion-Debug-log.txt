@@ -1,4 +1,4 @@
-/home/william/Downloads/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/william/Downloads/clion-2023.2.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/william/CLionProjects/EncryptionTool -B /home/william/CLionProjects/EncryptionTool/cmake-build-debug
+/home/william/Downloads/clion-2023.2.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/william/CLionProjects/Encryption-Tool -B /home/william/CLionProjects/Encryption-Tool/cmake-build-debug
 -- Configuring done (0.0s)
 -- Generating done (0.0s)
--- Build files have been written to: /home/william/CLionProjects/EncryptionTool/cmake-build-debug
+-- Build files have been written to: /home/william/CLionProjects/Encryption-Tool/cmake-build-debug
