@@ -22,6 +22,24 @@ This project provides a robust command-line tool for file encryption and decrypt
 
 - Cross-Platform Compatibility: Designed to work across different operating systems, providing a consistent user experience regardless of the platform.
 
+## Tests
+
+This project includes tests to ensure the reliability and security of the encryption and decryption functionalities. The tests are written using the Google Test framework and are designed to validate various aspects of encryption tool.
+
+#### Running the Tests
+
+To run the tests, follow these steps:
+
+1. **Build the Tests**:
+   - Ensure that the tests are built along with your project.
+
+2. **Execute the Test Binary**:
+   - After building your project, navigate to the directory where your test binary is located (usually within your build directory).
+   - Run the test binary. :
+     ```bash
+     ./EncryptionDecryptionTests
+     ```
+
 
 ## Installation
 
